@@ -838,7 +838,10 @@ textarea.input-field {
 }
 
 
-
+.timeline-item
+{
+  padding: 20px;
+}
 
 
 /**
