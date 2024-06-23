@@ -375,6 +375,7 @@ body.nav-active { overflow: hidden; }
   position: relative;
   max-width: max-content;
   margin-inline: auto;
+  margin-left: 30px;
 }
 
 .hero-banner .w-100 {
